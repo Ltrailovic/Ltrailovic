@@ -12,7 +12,6 @@
   <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/html.png" width='50px' height='50px'>
     <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/css.png" width='50px' height='50px'>
   <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" width='50px' height='50px'>
-      <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/ajax.png" width='70px' height='50px'>
     </span>
     </li>
     <li>
